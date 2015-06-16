@@ -30,6 +30,6 @@
     "mocha": "^2.1.0"
   },
   "dependencies": {
-    "pangyp": "^2.0.1"
+    "pangyp": "kossnocorp/pangyp#e5d4031a68900b693fb491f60f598d91349b4e17"
   }
 }
